@@ -1,4 +1,4 @@
-print('DAY 1 PART 1')
+print('DAY 1 PART 2')
 
 measurements = open('input_1', 'r')
 
